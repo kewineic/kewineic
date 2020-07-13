@@ -15,6 +15,8 @@
 - Estou sempre aprendendo novas ferramentas e conceitos. Aproveite para conferir um dos meus perfis estudantis no <a href="https://cursos.alura.com.br/user/kewineic">Curso Alura</a>.
 - Possuo projetos os quais você pode verificar nos meus repositórios do <a href="https://github.com/kewineic">Github</a>.
 - Eu acesso, assiduamente, a rede social mais quente do mercado de trabalho e você pode me encontrar facilmente por lá <a href="https://www.linkedin.com/in/kewineic/">Linkedin</a>.
+<br>
+<br>
 
 ##### Principais ferramentas de estudo: 
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> *ReactJs*
@@ -23,4 +25,12 @@
 <br> <img src="https://image.flaticon.com/icons/svg/29/29594.svg" width="30" height="30"> *SQL*
 <br> <img src="https://cdn.onlinewebfonts.com/svg/img_369018.png" width="30" height="30"> *NoSQL*
 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="30" height="30">  *Git* 
+
+<br>
+<br>
+
+#### Quer saber ainda mais sobre mim?
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/kewineic)](https://www.facebook.com/kewineic)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kewin_costa)](https://www.instagram.com/kewin_costa)
 
