@@ -26,8 +26,7 @@
 <br> <img src="https://cdn.onlinewebfonts.com/svg/img_369018.png" width="30" height="30"> *NoSQL*
 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="30" height="30">  *Git* 
 
-<br>
-<br>
+<br> 
 
 #### Quer saber ainda mais sobre mim?
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1) 
