@@ -9,15 +9,13 @@
 <br>
 <br>
 
-<img align="right" src="https://image.flaticon.com/icons/svg/2332/2332801.svg" width="170" height="170" /> 
+<img align="right" src="https://image.flaticon.com/icons/svg/2332/2332801.svg" width="150" height="150" /> 
 
 #### Principais ferramentas de estudo: 
-<br> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> </img> *ReactJs*
-<br> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> </img> *NodeJs* 
-<br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="30" height="30"> </img> *VueJs* 
+<br> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> *ReactJs* <img src="https://image.flaticon.com/icons/svg/29/29594.svg" width="30" height="30"> *SQL*
+<br> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> *NodeJs* <img src="https://cdn.onlinewebfonts.com/svg/img_369018.png" width="30" height="30"> *NoSQL*
+<br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="30" height="30">  *VueJs* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="30" height="30">  *Git* 
 
-<br>
-<br>
 
 
 ### ✨ Se você é um recrutador e gosta de desenvolver novos talentos, saiba que : ✨
