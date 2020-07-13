@@ -17,7 +17,7 @@
 - Eu acesso, assiduamente, a rede social mais quente do mercado de trabalho e você pode me encontrar facilmente por lá <a href="https://www.linkedin.com/in/kewineic/">Linkedin</a>.
 
 ##### Principais ferramentas de estudo: 
-<br> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> *ReactJs*
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> *ReactJs*
 <br> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> *NodeJs* 
 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width="30" height="30">  *VueJs* 
 <br> <img src="https://image.flaticon.com/icons/svg/29/29594.svg" width="30" height="30"> *SQL*
