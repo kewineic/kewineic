@@ -16,8 +16,6 @@
 - Possuo projetos os quais você pode verificar nos meus repositórios do <a href="https://github.com/kewineic">Github</a>.
 - Eu acesso, assiduamente, a rede social mais quente do mercado de trabalho e você pode me encontrar facilmente por lá <a href="https://www.linkedin.com/in/kewineic/">Linkedin</a>.
 <br>
-<br>
-
 ##### Principais ferramentas de estudo: 
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> *ReactJs*
 <br> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> *NodeJs* 
