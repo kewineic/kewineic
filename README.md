@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img align="right" src="https://image.flaticon.com/icons/svg/2332/2332801.svg" width="150" height="150" /> 
+<img align="right" src="https://image.flaticon.com/icons/svg/2332/2332801.svg" width="130" height="130" /> 
 
 ### ✨ Se você é um(a) recrutador(a) e gosta de desenvolver novos talentos, saiba que : ✨
 - Estou entusiasmado para aplicar todos os meus conhecimentos profissionais, adquiridos em 5 anos de experiência no comércio, na área de T.I.
