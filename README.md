@@ -4,7 +4,7 @@
 [![Alura Badge](https://img.shields.io/badge/-Alura-green?style=flat-square&logo=Angular&logoColor=white&link=https://cursos.alura.com.br/user/kewineic)](https://cursos.alura.com.br/user/kewineic)
 
 ## Olá, viajante. Seja bem vindo ao meu mundo!
-💬 Sinta-se à vontade para entrar em contato e compartilhar das suas dúvidas, experiências e idéias.
+💬 Sinta-se à vontade para entrar em contato e compartilhar suas dúvidas, experiências e idéias.
 <br>
 <br>
 
