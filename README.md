@@ -25,11 +25,15 @@
 <br> <img src="https://image.flaticon.com/icons/svg/29/29594.svg" width="30" height="30"> *SQL*
 <br> <img src="https://cdn.onlinewebfonts.com/svg/img_369018.png" width="30" height="30"> *NoSQL*
 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="30" height="30">  *Git* 
-
-<br> 
+<br> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" width="30" height="30">  *Jasmine(TDD)* 
+<br>  
 
 #### Quer saber ainda mais sobre mim?
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/kewineic)](https://www.facebook.com/kewineic)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kewin_costa)](https://www.instagram.com/kewin_costa)
+
+
+
+
 
