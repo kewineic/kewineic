@@ -1,7 +1,7 @@
 # Kewin Costa 🧙‍♂️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kewineic/)](https://www.linkedin.com/in/kewineic) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1) 
-[![Alura Badge](https://img.shields.io/badge/-Alura-green?style=flat-square&logo=Angular&logoColor=white&link=https://cursos.alura.com.br/user/kewineic)](https://cursos.alura.com.br/user/kewineic)
+[![Alura Badge](https://img.shields.io/badge/-Alura-1ca0f1?style=flat-square&logo=Angular&logoColor=white&link=https://cursos.alura.com.br/user/kewineic)](https://cursos.alura.com.br/user/kewineic)
 
 
 ## Olá, viajante. Seja bem vindo ao meu mundo!
