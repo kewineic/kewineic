@@ -1,5 +1,6 @@
 # Kewin Costa 🧙‍♂️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kewineic/)](https://www.linkedin.com/in/kewineic) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1) 
 [![Alura Badge](https://img.shields.io/badge/-Alura-green?style=flat-square&logo=Angular&logoColor=white&link=https://cursos.alura.com.br/user/kewineic)](https://cursos.alura.com.br/user/kewineic)
 
 
@@ -29,7 +30,7 @@
 <br>  
 
 #### Quer saber ainda mais sobre mim?
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1)](https://api.whatsapp.com/send?phone=5521976163775&text=Ol%C3%A1) 
+
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/kewineic)](https://www.facebook.com/kewineic)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kewin_costa)](https://www.instagram.com/kewin_costa)
 
