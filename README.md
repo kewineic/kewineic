@@ -12,8 +12,9 @@
 <img align="right" src="https://image.flaticon.com/icons/svg/2332/2332801.svg" width="130" height="130" /> 
 
 ### ✨ Se você é um(a) recrutador(a) e gosta de desenvolver novos talentos, saiba que : ✨
-- Estou entusiasmado para aplicar todos os meus conhecimentos profissionais, adquiridos em 5 anos de experiência no comércio, na área de T.I.
-- Estou sempre aprendendo novas ferramentas e conceitos. Aproveite para conferir um dos meus perfis estudantis no <a href="https://cursos.alura.com.br/user/kewineic">Curso Alura</a>.
+- Me sinto entusiasmado para aplicar todos os meus conhecimentos profissionais, adquiridos em 5 anos de experiência no comércio, na área de T.I.
+- Estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas. 
+- Sempre busco aprender novas ferramentas e conceitos. Aproveite para conferir um dos meus perfis estudantis no <a href="https://cursos.alura.com.br/user/kewineic">Curso Alura</a>.
 - Possuo projetos os quais você pode verificar nos meus repositórios do <a href="https://github.com/kewineic">Github</a>.
 - Eu acesso, assiduamente, a rede social mais quente do mercado de trabalho e você pode me encontrar facilmente por lá <a href="https://www.linkedin.com/in/kewineic/">Linkedin</a>.
 
