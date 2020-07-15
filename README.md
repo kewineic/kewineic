@@ -29,6 +29,7 @@
 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="30" height="30">  *Git* 
 <br> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" width="30" height="30">  *Jasmine(TDD)* 
 <br>  
+<br>
 
 #### Quer saber ainda mais sobre mim?
 
