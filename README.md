@@ -1,7 +1,6 @@
 # Kewin Costa 🧙‍♂️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kewineic/)](https://www.linkedin.com/in/kewineic) 
 [![Alura Badge](https://img.shields.io/badge/-Alura-green?style=flat-square&logo=Angular&logoColor=white&link=https://cursos.alura.com.br/user/kewineic)](https://cursos.alura.com.br/user/kewineic)
-[![Email Badge](https://img.shields.io/badge/-E--mail-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kewin.ferreira@gmail.com)](mailto:kewin.ferreira@gmail.com)
 
 
 ## Olá, viajante. Seja bem vindo ao meu mundo!
