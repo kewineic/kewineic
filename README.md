@@ -7,8 +7,6 @@
 ## Olá, viajante. Seja bem vindo ao meu mundo!
 💬 Sinta-se à vontade para entrar em contato e compartilhar suas dúvidas, experiências e idéias.
 <br>
-<br>
-<br>
 
 ##### Principais ferramentas de estudo: 
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/full/react.png" width="30" height="30"> *ReactJs*
